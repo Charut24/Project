@@ -1,4 +1,15 @@
 # Project
 This is the final project which I made for the Vodafone Workshop
-The project checkpoint file is the project for the xls file named superstore
-and the file named Project is the project for csv file named Bank_Customer_Churn_dataset
+
+# Project-1
+This is the final assignment where , we need to use NumPy, Pandas, Matplotlib which are mostly used python libraries in Data Science. 
+The whole coding is done using Jupyter Notebook. 
+
+# Project-2
+This is the final assignment where , we need to use algorithms of Machine Learning to solve the problem. 
+The whole coding is done using Jupyter Notebook.
+
+# Project-3
+As per our B.Tech curriculum, this is an Online Recruitment System made for our college. It is a Desktop Application.
+Java, SQL(JDBC) are used for backend development and JFrames are for Frontend Development. 
+This is a group project made by Me and Varsha
