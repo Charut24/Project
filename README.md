@@ -1,5 +1,5 @@
 # Project
-This is the final project which I made for the Vodafone Workshop
+
 
 # Project-1
 This is the final assignment where , we need to use NumPy, Pandas, Matplotlib which are mostly used python libraries in Data Science. 
